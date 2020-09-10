@@ -39,4 +39,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/sami-jradi/sfg-pet-clinic.git</developerConnection>
+    </scm>
+
 </project>
